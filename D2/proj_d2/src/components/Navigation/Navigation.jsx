@@ -1,9 +1,9 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import NavDropdown from "react-bootstrap/NavDropdown";
 import { links } from "../../data/navlinks";
 import React, { Component } from "react";
+import {nanoid} from "nanoid"
 
 class Navigation extends Component {
   render() {
@@ -16,7 +16,7 @@ class Navigation extends Component {
             <Nav className="me-auto">
               {links.map((link) => {
                 return (
-                  <Nav.Link href={link.url}>{link.label}</Nav.Link>
+                  <Nav.Link key={nanoid()} href={link.url}>{link.label}</Nav.Link>
 
                 )
               })}
@@ -26,8 +26,11 @@ class Navigation extends Component {
           </Navbar.Collapse>
         </Container>
       </Navbar>
+
+
     );
   }
 }
 
 export default Navigation;
+ 
