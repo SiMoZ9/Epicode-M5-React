@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background: cadetblue;
+}
+
+.nav-links {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
