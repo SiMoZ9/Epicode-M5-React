@@ -14,8 +14,20 @@ class UserForm extends Component {
             FirstName: '',
 
             LastName: '',
-            email: ''
+            email: '',
+            errors: {
+                FirstName: '',
+                LastName: ''
+            }
         };
+    }
+
+    validateForm() {
+        const { FirstName, LastName } = this.state;
+        let errors = {};
+
+        if (FirstName.trim() === "") errors.FirstName = "First name is required";
+        if (LastName.trim() === "") errors.LastName = "Last name is required";
     }
 
     handleInputChange = (event) => {
@@ -26,6 +38,8 @@ class UserForm extends Component {
     handleSubmit = (event) => {
         event.preventDefault();
         const { FirstName, LastName, email } = this.state;
+
+        this.validateForm();
         // POST invia questo come payload
         console.log("Done")
     }
