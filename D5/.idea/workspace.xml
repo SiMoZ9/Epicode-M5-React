@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fbc543d-4d5f-4f48-ba51-fd2ea5f5288b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/Layouts/MainLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/card/BookCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/counter/Counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/latestRelease/LatestRelease.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/lifeCycles/LifeCycles.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/components/main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/context/BooksContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/fantasy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/horror.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/navlinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/romance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/data/scifi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d5_context/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VQWgMkW1JUpOfIej7EOPWnRhsI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fbc543d-4d5f-4f48-ba51-fd2ea5f5288b" name="Changes" comment="" />
+      <created>1694768896332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694768896332</updated>
+      <workItem from="1694768897803" duration="2428000" />
+      <workItem from="1694952275573" duration="1041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
